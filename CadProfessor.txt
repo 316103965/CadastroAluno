@@ -1,5 +1,7 @@
                    Cadastro de professor
 
-Matrícula: 023
+MatrÃ­cula: 023
 Nome: Renato
 e-mail: RenatoPenha@gmail.com
+Telefone:
+Disciplinas que leciona
